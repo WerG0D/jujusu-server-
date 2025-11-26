@@ -1,0 +1,17 @@
+{
+	id: "f04d2c2d-f995-4d21-9699-4f8c68eac2a7"
+	type: "player"
+	player_name: "4rthurN00b"
+	ranks: {
+		f04d2c2d-f995-4d21-9699-4f8c68eac2a7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "4rthurN00b"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C1FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
